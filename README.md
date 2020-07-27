@@ -1,7 +1,7 @@
 ![Screenshot](BenettonIO.png)
 
-# covid19us
- Repository for the Hackmakers hackathon predictive algorithm challenge.
+# Tittle
+ 
 
 Project Organization
 ------------
